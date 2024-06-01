@@ -1,0 +1,6 @@
+pandas
+numpy
+spacy==2.3.2
+scikit-learn
+tqdm
+joblib
